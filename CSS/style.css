@@ -1,0 +1,21 @@
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  background-color: #faf1e6;
+  border-color: rgb(121, 98, 98);
+  border-width: 5px;
+  width: 30%;
+}
+body {
+  background-color: #faf1e6;
+  /* margin: 0; */
+}
+h1 {
+  color: #7b2cd6;
+}
+h3 {
+  color: #e63bbb;
+}
+#SonuImage{          /******ID selector******/
+  border-radius: 100%;
+}

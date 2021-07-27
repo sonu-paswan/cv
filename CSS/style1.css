@@ -1,0 +1,30 @@
+h1{
+    background-color: rgb(183, 238, 183);
+    color: rgb(253, 21, 5);
+}
+/* body{
+    background-color:aqua;
+} */
+img:hover{
+    background-color:silver;
+}
+/******************Class selector*****************/
+.apple{
+    background-color: rgb(167, 247, 167);
+    
+}
+.grapes{
+    background-color:rgb(218, 114, 114);
+    border-radius: 5% 10%;
+    border-style:solid;
+    border-width: 5px;
+}
+.circular{
+    border-radius:10% 5%;
+    border-style:solid;
+    border-width: 5px;
+}
+#heading{
+    background-image:url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png);
+
+}
