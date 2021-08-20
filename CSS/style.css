@@ -8,10 +8,12 @@ hr {
 }
 body {
   background-color: #faf1e6;
+  font-family: 'Inconsolata', monospace;
   /* margin: 0; */
 }
 h1 {
   color: #7b2cd6;
+  font-family: 'Pacifico', cursive;
 }
 h3 {
   color: #e63bbb;
